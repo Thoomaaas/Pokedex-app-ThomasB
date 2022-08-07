@@ -56,11 +56,6 @@ const PokemonDetails = ({match}) => {
                 <br></br>
                 <ul className="list-group list-group-flush">
                   <h5 className="profil">statistiques</h5>
-                  <li className="list-group-item">Ordre dans le Pokedex: {height.order }</li>
-                  <li className="list-group-item"> Type du Pokemon: {pokemonType} </li>
-                  <li className="list-group-item"> taille du Pokemon: {height.height } Us </li>
-                  <li className="list-group-item">Poids du Pokemon {numberOfGame.weight} Kg</li>
-
                 </ul>    
 
            </div>

@@ -21,7 +21,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="navbarExample01">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item active">
-                                <a className="nav-link" aria-current="page" href="/">POKÉDEX DE THOMAS LA D</a>
+                                <a className="nav-link" aria-current="page" href="/">POKÉDEX</a>
                             </li>
                         </ul>
                     </div>
